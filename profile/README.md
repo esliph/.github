@@ -59,6 +59,6 @@ Docker, Makefile and GitHub Actions standardize development, testing and publish
 
 <div align="center">
 
-<sub>Maintained by <a href="https://github.com/Danrley-Ruan-Saquetti">Dan Ruan</a></sub>
+<sub>Maintained by <a href="https://github.com/Danrley-Ruan-Saquetti">Danrley-Ruan-Saquetti</a></sub>
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Esliph
+<img src="https://raw.githubusercontent.com/esliph/.github/refs/heads/master/assets/logos/esliph-logo-negative.svg" height="120">
 
 **Technologies and packages for application development.**
 

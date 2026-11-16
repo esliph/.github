@@ -24,15 +24,6 @@ Tests, atomic commits, Conventional Commits, exceptions with error codes and doc
 **Reproducible environment.**
 Docker, Makefile and GitHub Actions standardize development, testing and publishing across every project.
 
-## Stack
-
-| Area                | Tools                       |
-| ------------------- | --------------------------- |
-| Languages           | TypeScript, PHP 8.2+, C++17 |
-| Testing             | Vitest, PHPUnit, doctest    |
-| Build & environment | Docker, Makefile, CMake     |
-| CI/CD               | GitHub Actions              |
-
 ---
 
 <div align="center">
